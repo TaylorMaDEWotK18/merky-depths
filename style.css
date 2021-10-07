@@ -1,0 +1,24 @@
+
+body {
+  color: #fff;
+  font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+   background: url("https://s-media-cache-ak0.pinimg.com/564x/53/f5/53/53f553c13d346995e6e9245fc0f247d2.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #921515;
+}
+
+main {
+  width: 90%;
+  max-width: 1080px;
+  padding: 50px 0 0;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 3em;
+  line-height: 1.5;
+}
